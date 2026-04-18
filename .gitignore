@@ -1,0 +1,19 @@
+# Arduino build files
+*.ino.hex
+*.elf
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino IDE
+*.arduinoIDE
+*.code-workspace
+
+# Build folders
+/build/
